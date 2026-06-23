@@ -1,5 +1,5 @@
 # cpu3dengine:
-A 3D rendering engine written in Java that runs on the CPU. Uses a left-handed coordinate system. Only tested on macOS.
+A 3D rendering engine written in Java that runs on the CPU. Uses a left-handed coordinate system and weak-perspective projection. Only tested on macOS.
 
 ## To run:
 ### In Terminal:
